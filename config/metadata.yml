@@ -1,8 +1,9 @@
 ---
-metadata:
-  - name: description
-    content: TaxonPages is a tool to serve taxon pages.
-  - name: keywords
-    content: taxonomy, species, Species File Group
-  - name: robots
-    content: follow
+header_logo_url:  http://Zoraptera.archive.speciesfile.org/HomePage/Zoraptera/img_Logo/SiteLogo.jpg
+  header_logo_text: Zoraptera Species File
+  header_links:
+    - label: Home
+      link: /
+
+    - label: About
+      link: /about
