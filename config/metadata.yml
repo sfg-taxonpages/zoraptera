@@ -1,9 +1,8 @@
 ---
-header_logo_url:  http://Zoraptera.archive.speciesfile.org/HomePage/Zoraptera/img_Logo/SiteLogo.jpg
-  header_logo_text: Zoraptera Species File
-  header_links:
-    - label: Home
-      link: /
-
-    - label: About
-      link: /about
+metadata:
+  - name: description
+    content: The Zoraptera Species File is a taxonomic, nomenclatural, and bibliographic database of the angel insects of the world, including all extant and fossil taxa.
+  - name: keywords
+    content: taxonomy, species, Species File Group, SFG, Zoraptera, angel insects, taxonpages, Zoraptera Species File.
+  - name: robots
+    content: follow
