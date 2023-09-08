@@ -11,7 +11,7 @@ The Zoraptera Species File works to build a comprehensive source for knowledge a
 
 Explore!
 
-Try searching for species _Latinozoros barberi, or start your exploration at Genus [Latinozoros]({{app:project_url}}/otu/924522/overview),  or Family [Spiralizoridae]({{app:project_url}}/otu/924520/overview).
+Try searching for species _Latinozoros barberi_, or start your exploration at Genus [Latinozoros]({{app:project_url}}/otu/924522/overview),  or Family [Spiralizoridae]({{app:project_url}}/otu/924520/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
