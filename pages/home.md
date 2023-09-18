@@ -14,7 +14,7 @@ Explore!
 Try searching for species _Latinozoros barberi_, or start your exploration at Genus [Latinozoros]({{app:project_url}}/otu/924522/overview),  or Family [Spiralizoridae]({{app:project_url}}/otu/924520/overview).
 
 ## Discover more
-See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
+See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#project-development-and-maintenance), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
 
