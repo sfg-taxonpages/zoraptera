@@ -20,8 +20,9 @@ _\* Past contributor, now inactive._
 ### Contribute or get help
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. [Contact us](#contribute-or-get-help) if you would like to help us address these or other gaps in the data.
 
-- <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker.
-- [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
+- **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us to **provide new data, identify a problem with existing data**, or inquire about **joining** the researchers building this Species File.
+- **Cite** this website: Hopkins, H. Zoraptera Species File. [retrieval date]. <https://zoraptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- If **something is broken** (i.e. with TaxonPages the software) see [Software](#software), or use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
 
 
 ### Extended data access
