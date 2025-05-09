@@ -13,8 +13,8 @@ taxa_page:
           - panel:keys
           - panel:statistics
           - panel:sounds
-inaturalist:
-    label: 'iNaturalist'
-    rank_group: ['GenusGroup', 'SpeciesGroup']
-    panels:
-      - - - panel:inaturalist
+  inaturalist:
+      label: 'iNaturalist'
+      rank_group: ['GenusGroup', 'SpeciesGroup']
+      panels:
+        - - - panel:inaturalist
