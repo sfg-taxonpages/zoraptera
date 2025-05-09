@@ -11,6 +11,7 @@ taxa_page:
           - panel:descendants
           - panel:content
           - panel:keys
+          - panel:etymology
           - panel:gbif
           - panel:statistics
           - panel:sounds
