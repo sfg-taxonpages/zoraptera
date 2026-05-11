@@ -12,6 +12,7 @@
     "setup": "taxonpages setup"
   },
   "dependencies": {
-    "@sfgrp/taxonpages": "latest"
+    "@sfgrp/taxonpages": "latest",
+    "@jlpereira/taxonpages-panel-inaturalist": "latest"
   }
 }
